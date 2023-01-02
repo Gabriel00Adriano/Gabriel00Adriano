@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, seja bem-vindo(a)
 
 <!--
 **Gabriel00Adriano/Gabriel00Adriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
